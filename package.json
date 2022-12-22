@@ -12,6 +12,8 @@
   },
   "homepage": "https://github.com/litrafi/litra-contract#readme",
   "dependencies": {
+    "@aragon/apps-shared-minime": "^1.0.2",
+    "@aragon/os": "^4.4.0",
     "@openzeppelin/contracts": "^4.6.0"
   }
 }
