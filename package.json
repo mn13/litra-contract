@@ -1,0 +1,17 @@
+{
+  "name": "litra-contract",
+  "version": "1.0.0",
+  "description": "Solidity contract used in Litra APP",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litrafi/litra-contract.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litrafi/litra-contract/issues"
+  },
+  "homepage": "https://github.com/litrafi/litra-contract#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0"
+  }
+}
